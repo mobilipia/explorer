@@ -1,5 +1,52 @@
 <template>
   <div>
+
+    <div class="row" style="margin: 0 -30px 0 -30px" id="ticker-panels">
+
+
+      <div class="col-md-12" style="padding:0">
+         
+		 <div class="col-xs-4">
+            <div class="panel panel-default">
+               <center class="panel-heading">URN&nbsp;<a href="#trading-warning" class="glyphicon glyphicon-asterisk" style="font-size: 65%;top: -3px;">
+			   </a>
+			   </center>
+               <center class="panel-body">                  
+			   <span><a href="#" id="ticker" target="_blank" rel="noopener">
+                  ---
+                  </a>
+				</span>
+               </center>
+            </div>
+         </div>
+		 
+         <div class="col-xs-4">
+            <div class="panel panel-default">
+               <center class="panel-heading">FRN&nbsp;<a href="#trading-warning" class="glyphicon glyphicon-asterisk" style="font-size: 65%;top: -3px;"></a></center>
+               <center class="panel-body"><span id="tickerUSD">
+                  ---
+               </span></center>
+            </div>
+         </div>
+		 
+         <div class="col-xs-4">
+            <div class="panel panel-default">
+               <center class="panel-heading">PRN&nbsp;<a href="#trading-warning" class="glyphicon glyphicon-asterisk" style="font-size: 65%;top: -3px;"></a></center>
+               <center class="panel-body"><span>
+                  <a href="#" id="marketCap" target="_blank" rel="noopener">---</a>
+               </span></center>
+            </div>
+         </div>
+		 
+      </div>
+	  
+	 
+	  
+	  
+	  
+   </div>
+
+
     <div class="card">
       <div class="card-header">Mempool</div>
       <ul class="list-group list-group-flush">

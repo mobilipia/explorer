@@ -1,10 +1,10 @@
 <template>
   <div>
 
-    <div class="row" style="margin: 0 -30px 0 -30px" id="ticker-panels">
+    <div class="row"  id="ticker-panels">
 
 
-      <div class="col-md-12" style="padding:0">
+      <div class="col-md-12">
          
 		 <div class="col-xs-4">
             <div class="panel panel-default">

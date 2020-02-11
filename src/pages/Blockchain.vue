@@ -22,7 +22,7 @@
             </center>
             <center class="panel-body">
               <span id="tickerUSD">
-               0
+                0
               </span>
             </center>
           </div>

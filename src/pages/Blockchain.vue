@@ -6,7 +6,7 @@
         <div class="col-xs-4">
           <div class="panel panel-default">
             <center class="panel-heading">URN&nbsp;
-              <a href="#trading-warning" class="glyphicon glyphicon-asterisk"></a>
+              <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
             </center>
             <center class="panel-body">
               <span>
@@ -18,7 +18,7 @@
         <div class="col-xs-4">
           <div class="panel panel-default">
             <center class="panel-heading">FRN&nbsp;
-              <a href="#trading-warning" class="glyphicon glyphicon-asterisk"></a>
+              <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
             </center>
             <center class="panel-body">
               <span id="tickerUSD">
@@ -30,7 +30,7 @@
         <div class="col-xs-4">
           <div class="panel panel-default">
             <center class="panel-heading">PRN&nbsp;
-              <a href="#trading-warning" class="glyphicon glyphicon-asterisk"></a>
+              <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
             </center>
             <center class="panel-body">
               <span>
@@ -40,7 +40,7 @@
           </div>
         </div>
       </div>
-      </div>
+  </div>
 
 
     <div class="card">

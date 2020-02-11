@@ -20,27 +20,27 @@
             <center class="panel-heading">FRN&nbsp;
               <a href="#trading-warning" class="glyphicon glyphicon-asterisk"></a>
             </center>
-          <center class="panel-body">
-            <span id="tickerUSD">
-              ---
-            </span>
-          </center>
+            <center class="panel-body">
+              <span id="tickerUSD">
+                ---
+              </span>
+            </center>
+          </div>
+        </div>
+        <div class="col-xs-4">
+          <div class="panel panel-default">
+            <center class="panel-heading">PRN&nbsp;
+              <a href="#trading-warning" class="glyphicon glyphicon-asterisk"></a>
+            </center>
+            <center class="panel-body">
+              <span>
+                <a id="marketCap" href="#" target="_blank" rel="noopener"> ---</a>
+              </span>
+            </center>
+          </div>
         </div>
       </div>
-      <div class="col-xs-4">
-        <div class="panel panel-default">
-          <center class="panel-heading">PRN&nbsp;
-            <a href="#trading-warning" class="glyphicon glyphicon-asterisk"></a>
-          </center>
-          <center class="panel-body">
-            <span>
-              <a id="marketCap" href="#" target="_blank" rel="noopener"> ---</a>
-            </span>
-          </center>
-        </div>
       </div>
-    </div>
-    </div>
 
 
     <div class="card">

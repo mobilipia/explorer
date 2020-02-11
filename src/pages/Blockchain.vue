@@ -5,36 +5,36 @@
       <div class="col-md-12">
         <div class="col-xs-4">
           <div class="panel panel-default">
-            <center class="panel-heading">URN&nbsp;
+            <center class="panel-heading">Universal Reserved Nodes&nbsp;
               <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
             </center>
             <center class="panel-body">
               <span>
-                <a id="ticker" href="#" target="_blank" rel="noopener">---</a>
+                <a id="ticker" href="#" target="_blank" rel="noopener">0</a>
               </span>
             </center>
           </div>
         </div>
         <div class="col-xs-4">
           <div class="panel panel-default">
-            <center class="panel-heading">FRN&nbsp;
+            <center class="panel-heading">Federated Reserved Nodes&nbsp;
               <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
             </center>
             <center class="panel-body">
               <span id="tickerUSD">
-                ---
+               0
               </span>
             </center>
           </div>
         </div>
         <div class="col-xs-4">
           <div class="panel panel-default">
-            <center class="panel-heading">PRN&nbsp;
+            <center class="panel-heading">Personal Reserved Nodes&nbsp;
               <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
             </center>
             <center class="panel-body">
               <span>
-                <a id="marketCap" href="#" target="_blank" rel="noopener"> ---</a>
+                <a id="marketCap" href="#" target="_blank" rel="noopener">0</a>
               </span>
             </center>
           </div>

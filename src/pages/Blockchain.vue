@@ -6,15 +6,11 @@
         <div class="col-xs-4">
          <div class="panel panel-default">
           <center class="panel-heading">URN&nbsp;
-            <a href="#trading-warning" class="glyphicon glyphicon-asterisk">
-
-            </a>
+            <a href="#trading-warning" class="glyphicon glyphicon-asterisk"></a>
             </center>
             <center class="panel-body">
               <span>
-                <a href="#" id="ticker" target="_blank" rel="noopener">
-                  ---
-                  </a>
+                <a href="#" id="ticker" target="_blank" rel="noopener">---</a>
               </span>
             </center>
         </div>
@@ -36,15 +32,11 @@
       <div class="col-xs-4">
         <div class="panel panel-default">
           <center class="panel-heading">PRN&nbsp;
-            <a href="#trading-warning" class="glyphicon glyphicon-asterisk">
-
-            </a>
+            <a href="#trading-warning" class="glyphicon glyphicon-asterisk"></a>
           </center>
           <center class="panel-body">
             <span>
-              <a href="#" id="marketCap" target="_blank" rel="noopener">
-                ---
-              </a>
+              <a href="#" id="marketCap" target="_blank" rel="noopener"> ---</a>
             </span>
           </center>
         </div>

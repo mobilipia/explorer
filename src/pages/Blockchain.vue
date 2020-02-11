@@ -4,17 +4,17 @@
     <div id="ticker-panels" class="row">
       <div class="col-md-12">
         <div class="col-xs-4">
-         <div class="panel panel-default">
-          <center class="panel-heading">URN&nbsp;
-            <a href="#trading-warning" class="glyphicon glyphicon-asterisk"></a>
+          <div class="panel panel-default">
+            <center class="panel-heading">URN&nbsp;
+              <a href="#trading-warning" class="glyphicon glyphicon-asterisk"></a>
             </center>
             <center class="panel-body">
               <span>
                 <a id="ticker" href="#" target="_blank" rel="noopener">---</a>
               </span>
             </center>
+          </div>
         </div>
-      </div>
       <div class="col-xs-4">
         <div class="panel panel-default">
           <center class="panel-heading">FRN&nbsp;

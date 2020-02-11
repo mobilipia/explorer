@@ -15,13 +15,11 @@
             </center>
           </div>
         </div>
-      <div class="col-xs-4">
-        <div class="panel panel-default">
-          <center class="panel-heading">FRN&nbsp;
-            <a href="#trading-warning" class="glyphicon glyphicon-asterisk">
-
-            </a>
-          </center>
+        <div class="col-xs-4">
+          <div class="panel panel-default">
+            <center class="panel-heading">FRN&nbsp;
+              <a href="#trading-warning" class="glyphicon glyphicon-asterisk"></a>
+            </center>
           <center class="panel-body">
             <span id="tickerUSD">
               ---

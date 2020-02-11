@@ -8,7 +8,7 @@
          
 		 <div class="col-xs-4">
             <div class="panel panel-default">
-               <center class="panel-heading">URN&nbsp;<a href="#trading-warning" class="glyphicon glyphicon-asterisk" style="font-size: 65%;top: -3px;">
+               <center class="panel-heading">URN&nbsp;<a href="#trading-warning" class="glyphicon glyphicon-asterisk">
 			   </a>
 			   </center>
                <center class="panel-body">                  
@@ -22,7 +22,7 @@
 		 
          <div class="col-xs-4">
             <div class="panel panel-default">
-               <center class="panel-heading">FRN&nbsp;<a href="#trading-warning" class="glyphicon glyphicon-asterisk" style="font-size: 65%;top: -3px;"></a></center>
+               <center class="panel-heading">FRN&nbsp;<a href="#trading-warning" class="glyphicon glyphicon-asterisk"></a></center>
                <center class="panel-body"><span id="tickerUSD">
                   ---
                </span></center>
@@ -31,7 +31,7 @@
 		 
          <div class="col-xs-4">
             <div class="panel panel-default">
-               <center class="panel-heading">PRN&nbsp;<a href="#trading-warning" class="glyphicon glyphicon-asterisk" style="font-size: 65%;top: -3px;"></a></center>
+               <center class="panel-heading">PRN&nbsp;<a href="#trading-warning" class="glyphicon glyphicon-asterisk"></a></center>
                <center class="panel-body"><span>
                   <a href="#" id="marketCap" target="_blank" rel="noopener">---</a>
                </span></center>

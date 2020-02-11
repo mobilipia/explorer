@@ -10,7 +10,7 @@
             </center>
             <center class="panel-body">
               <span>
-                <a href="#" id="ticker" target="_blank" rel="noopener">---</a>
+                <a id="ticker" href="#" target="_blank" rel="noopener">---</a>
               </span>
             </center>
         </div>
@@ -36,7 +36,7 @@
           </center>
           <center class="panel-body">
             <span>
-              <a href="#" id="marketCap" target="_blank" rel="noopener"> ---</a>
+              <a id="marketCap" href="#" target="_blank" rel="noopener"> ---</a>
             </span>
           </center>
         </div>

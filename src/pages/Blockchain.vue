@@ -1,10 +1,10 @@
 <template>
   <div>
 
-    <div class="row" id="ticker-panels">
-    <div class="col-md-12">
-      <div class="col-xs-4">
-        <div class="panel panel-default">
+    <div id="ticker-panels" class="row">
+      <div class="col-md-12">
+        <div class="col-xs-4">
+         <div class="panel panel-default">
           <center class="panel-heading">URN&nbsp;
             <a href="#trading-warning" class="glyphicon glyphicon-asterisk">
 

@@ -2,8 +2,7 @@
   <div>
 
     <div id="ticker-panels" class="row">
-      <div class="col-md-12">
-        <div class="col-xs-4">
+      <div class="col-sm">
           <div class="panel panel-default">
             <center class="panel-heading">Universal Reserved Nodes&nbsp;
               <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
@@ -15,7 +14,7 @@
             </center>
           </div>
         </div>
-        <div class="col-xs-4">
+        <div class="col-sm">
           <div class="panel panel-default">
             <center class="panel-heading">Federated Reserved Nodes&nbsp;
               <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
@@ -27,7 +26,7 @@
             </center>
           </div>
         </div>
-        <div class="col-xs-4">
+        <div class="col-sm">
           <div class="panel panel-default">
             <center class="panel-heading">Personal Reserved Nodes&nbsp;
               <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
@@ -39,7 +38,6 @@
             </center>
           </div>
         </div>
-      </div>
     </div>
 
 

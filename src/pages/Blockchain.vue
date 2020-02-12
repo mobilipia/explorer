@@ -2,42 +2,42 @@
   <div>
 
     <div id="ticker-panels" class="row">
-        <div class="col-sm">
-            <div class="panel panel-default">
-                <center class="panel-heading">Universal Reserved Nodes&nbsp;
-                    <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
-                </center>
-                <center class="panel-body">
-                    <span>
-                  <a id="ticker" href="#" target="_blank" rel="noopener">0</a>
-                </span>
-                </center>
-            </div>
+      <div class="col-sm">
+        <div class="card">
+          <div class="card-header small-padding">Universal Reserved Nodes&nbsp;
+            <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
+          </div>
+          <div class="card-body">
+            <span>
+              <a id="urn" href="#" target="_blank" rel="noopener">0</a>
+            </span>
+          </div>
         </div>
-        <div class="col-sm">
-            <div class="panel panel-default">
-                <center class="panel-heading">Federated Reserved Nodes&nbsp;
-                    <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
-                </center>
-                <center class="panel-body">
-                    <span id="tickerUSD">
-                    0
-                  </span>
-                </center>
-            </div>
+      </div>
+      <div class="col-sm">
+        <div class="card">
+          <div class="card-header small-padding">Federated Reserved Nodes&nbsp;
+            <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
+          </div>
+          <div class="card-body">
+            <span id="tickerUSD">
+              <a id="frn" href="#" target="_blank" rel="noopener">0</a>
+            </span>
+          </div>
         </div>
-        <div class="col-sm">
-            <div class="panel panel-default">
-                <center class="panel-heading">Personal Reserved Nodes&nbsp;
-                    <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
-                </center>
-                <center class="panel-body">
-                    <span>
-                    <a id="marketCap" href="#" target="_blank" rel="noopener">0</a>
-                  </span>
-                </center>
-            </div>
+      </div>
+      <div class="col-sm">
+        <div class="card">
+          <div class="card-header small-padding">Personal Reserved Nodes&nbsp;
+            <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
+          </div>
+          <div class="card-body">
+            <span>
+              <a id="marketCap" href="#" target="_blank" rel="noopener">0</a>
+            </span>
+          </div>
         </div>
+      </div>
     </div>
 
 
@@ -168,3 +168,12 @@
     }
   }
 </script>
+<style>
+#ticker-panels{
+  margin-bottom:20px;
+  }
+  
+  .small-padding{
+  padding: .5rem .05rem;
+  }
+</style>

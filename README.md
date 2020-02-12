@@ -1,12 +1,12 @@
-# Vega Blockchain Explorer
+# vega Blockchain Explorer
 
-An application for monitoring blocks and transactions in Vega blockchain.
+An application for monitoring blocks and transactions in vega blockchain.
 
-![Vega Blockchain Explorer](Screenshot.png)
+![vega Blockchain Explorer](Screenshot.png)
 
-## Use with different Vega core versions
+## Use with different vega core versions
 
-Explorer compatibility with Vega core:
+Explorer compatibility with vega core:
 
 | Core version | Tag |
 |---|---|
@@ -45,12 +45,12 @@ npm start -- --port=3000 --api-root=http://127.0.0.1:8200
 
 `--port` is a port for Node.JS app.
 
-`--api-root` is a root URL of Vega node public API.
+`--api-root` is a root URL of vega node public API.
 
 ## Build a static html pages
 
-CORS headers must be setted up in Vega node configuration to use the application as static html pages.
-See `allow_origin` parameter in [Vega docs](https://Vega.com/doc/architecture/configuration/#api).
+CORS headers must be setted up in vega node configuration to use the application as static html pages.
+See `allow_origin` parameter in [vega docs](https://vega.com/doc/architecture/configuration/#api).
 
 Build sources:
 
@@ -58,11 +58,11 @@ Build sources:
 npm run compile -- --env.apiRoot=http://127.0.0.1:8200
 ```
 
-`--env.apiRoot` is a root URL of Vega node public API.
+`--env.apiRoot` is a root URL of vega node public API.
 
 Run [index.html](index.html).
 
 ## LICENSE
 
-Vega Blockchain Explorer is licensed under the Apache License (Version 2.0).
-See [LICENSE](https://github.com/Vega/blockchain-explorer/blob/master/LICENSE) for details.
+vega Blockchain Explorer is licensed under the Apache License (Version 2.0).
+See [LICENSE](https://github.com/vega/blockchain-explorer/blob/master/LICENSE) for details.

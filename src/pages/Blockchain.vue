@@ -4,7 +4,7 @@
     <div id="ticker-panels" class="row">
       <div class="col-sm">
         <div class="card">
-          <div class="card-header small-padding">Universal Reserved Nodes&nbsp;
+          <div class="card-header small-padding">Universal Reserved Node&nbsp;
             <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
           </div>
           <div class="card-body">
@@ -16,7 +16,7 @@
       </div>
       <div class="col-sm">
         <div class="card">
-          <div class="card-header small-padding">Federated Reserved Nodes&nbsp;
+          <div class="card-header small-padding">Federated Reserved Node&nbsp;
             <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
           </div>
           <div class="card-body">
@@ -28,7 +28,7 @@
       </div>
       <div class="col-sm">
         <div class="card">
-          <div class="card-header small-padding">Personal Reserved Nodes&nbsp;
+          <div class="card-header small-padding">Personal Reserved Node&nbsp;
             <a href="#trading-warning" class="glyphicon glyphicon-asterisk">&nbsp;</a>
           </div>
           <div class="card-body">

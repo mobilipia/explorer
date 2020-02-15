@@ -130,7 +130,9 @@
 
 <script>
   module.exports = {
-    props: ['height'],
+    props: {
+      height: String
+    },
     data: function() {
       return {
         block: {},
@@ -157,6 +159,7 @@
         const self = this
 		
         this.$http.get('/api/explorer/v1/block?height=' + this.height).then(response => {
+          console.log(response.data)
           self.block = response.data.block;
           self.precommits = response.data.precommits;
           self.time = response.data.time;

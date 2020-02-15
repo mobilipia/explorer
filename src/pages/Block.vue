@@ -100,7 +100,7 @@
             </div>
             <div class="col-sm-9">
               <code>
-                <router-link :to="{ name: 'transaction', params: { hash: transaction } }">{{ transaction }}</router-link>
+                <router-link :to="{ name: 'transaction', params: { hash: transaction.tx_hash } }">{{ transaction }}</router-link>
               </code>
             </div>
           </div>

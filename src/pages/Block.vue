@@ -157,7 +157,7 @@
     methods: {
       loadBlock: function() {
         const self = this
-
+		console.log(this.height)
         this.$http.get('/api/explorer/v1/block?height=' + this.height).then(response => {
           self.block = response.data.block;
           self.precommits = response.data.precommits;

@@ -22,7 +22,7 @@
     "moment": "^2.24.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.7",
-    "yargs-parser": "^9.0.2"
+    "yargs-parser": "^20.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
